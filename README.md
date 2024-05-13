@@ -6,12 +6,12 @@ This repo contains python functions for credit card fraud analysis
 ### Dependencies
 
 pandas   
-numpy
-matplotlib
-sklearn
-xgboost
-skopt
-shap
+numpy 
+matplotlib 
+sklearn 
+xgboost 
+skopt 
+shap 
 
 ## result
 Key KPIs:
