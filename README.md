@@ -67,7 +67,7 @@ fraud_analysis.py
 ## Authors
 
 ex. Ankai Liu 
-ex. [@Ankai Liu](https://github.com/lakingz/AutoMasking)
+ex. [@Ankai Liu](https://github.com/lakingz/fraud_analysis/tree/master)
 
 ## Version History
 
