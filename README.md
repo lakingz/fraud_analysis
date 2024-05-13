@@ -44,7 +44,7 @@ Feature importance chart:
 More detailed feature importance chart:
 <figure align="center">
   <picture>
-    <img alt="Impressive Profile READMEs Screenshot" src="https://github.com/lakingz/fraud_analysis/blob/master/Feature%20Importances%20from%20shap.png" style="width: 50%">
+    <img alt="Impressive Profile READMEs Screenshot" src="https://github.com/lakingz/fraud_analysis/blob/master/shap_summary_default.png" style="width: 50%">
   </picture>
 </figure>
 
