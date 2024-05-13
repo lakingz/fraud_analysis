@@ -225,8 +225,8 @@ import shap
 try:
     explainer = shap.Explainer(clf_xgb)
     shap_values = explainer(X_train)
-    shap.summary_plot(shap_values.values, X_train, show=False)
-    plt.savefig('shap_summary_default.png')  # Save the figure
+    shap.summary_plot(shap_values.values, X_train, show=False, plot_size=(10, 8))
+    plt.savefig('shap_summary_default.png', bbox_inches='tight')  # Save the figure shap_summary_default
 except Exception as e:
     print(f"An error occurred: {e}")
 finally:
