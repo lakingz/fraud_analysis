@@ -3,16 +3,6 @@
 
 This repo contains python functions for credit card fraud analysis
 
-### Dependencies
-
-pandas   
-numpy 
-matplotlib 
-sklearn 
-xgboost 
-skopt 
-shap 
-
 ## result
 Key KPIs:
 Example top level tree:
@@ -63,6 +53,10 @@ More detailed feature importance chart:
 The package contains one files:
 
 fraud_analysis.py
+
+### Dependencies
+
+pandas，numpy，matplotlib，sklearn，xgboost，skopt，shap 
 
 ## Authors
 
