@@ -39,7 +39,7 @@ try:
     dot.render('doctest-output/round-table.gv').replace('\\', '/')
 except Exception as e:
     print("An error occurred:", e)
-##############################################
+############################################## train test split
 credit_raw = pd.read_excel('Data_Analysis_and_Visualization_segment.xlsx')
 credit_raw.shape
 credit_raw.head()
